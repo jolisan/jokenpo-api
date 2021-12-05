@@ -22,7 +22,7 @@ Após instalar os pré-requisitos necessários, devemos nos certificar que está
 * Caso seja retornado "javac 11.0.12", está tudo ok e podemos seguir com a execução da aplicação.
 * Caso contrário, volte ao passo de pré-requisitos e instale o Java JDK 11.0.12.
 
-2 - Vá até o diretório do projeto
+2 - Faça o download do projeto e vá até o seu diretório
 * ```cd jokenpo-api```
 
 3 - Acesse o diretório target
