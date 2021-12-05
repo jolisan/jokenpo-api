@@ -40,13 +40,13 @@ Após instalar os pré-requisitos necessários, devemos nos certificar que está
 ### Rota 🎯
 Para utilizar a API e realizar uma jogada do Jokenpo, utilize a rota [/api/jokenpo/play](), passando os parâmetros necessários como será especificado abaixo:
 
-[http://localhost:8080/api/jokenpo/play?player1=PEDRA&player2=PAPEL]()
+[http://localhost:8080/api/jokenpo/play?player1=PEDRA&player2=PAPEL](http://localhost:8080/api/jokenpo/play?player1=PEDRA&player2=PAPEL)
 
 Ou seja, onde o parâmetro "player1" corresponde a escolha do Jogador 1, e "player2" a escolha do "Jogador 2" respectivamente.
 
 Outros exemplos:
-* [http://localhost:8080/api/jokenpo/play?player1=TESOURA&player2=PAPEL]()
-* [http://localhost:8080/api/jokenpo/play?player1=PEDRA&player2=PEDRA]()
+* [http://localhost:8080/api/jokenpo/play?player1=TESOURA&player2=PAPEL](http://localhost:8080/api/jokenpo/play?player1=TESOURA&player2=PAPEL)
+* [http://localhost:8080/api/jokenpo/play?player1=PEDRA&player2=PEDRA](http://localhost:8080/api/jokenpo/play?player1=PEDRA&player2=PEDRA)
 
 A resposta para cada requisição feita a API demonstrada acima, teria como resposta em JSON, respectivamente:
 
