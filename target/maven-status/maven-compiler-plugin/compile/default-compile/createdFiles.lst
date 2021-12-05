@@ -1,0 +1,6 @@
+com\zenvia\api\controller\JokenpoController.class
+com\zenvia\api\JokenpoApiApplication.class
+com\zenvia\api\exceptions\ApplicationExceptionHandler.class
+com\zenvia\api\model\Jokenpo.class
+com\zenvia\api\model\Players.class
+com\zenvia\api\model\Jokenpo$Play.class
