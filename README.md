@@ -3,6 +3,12 @@
 ## Resumo 📖
 Este projeto consiste na resolução do problema [Jokenpo](https://dojopuzzles.com/problems/jokenpo/) presente no DojoPuzzles, atráves do desenvolvimento de uma REST API com Spring Boot.
 
+| Tecnologias utilizadas |
+| ------- |
+| Java 11 / JDK 11 |
+| SpringBoot 2.6.1 |
+| Maven |
+
 ## Pré-requisitos ❗
 Para utilizar a API é necessário ter as seguintes tecnologias instaladas no seu S.O:
 
