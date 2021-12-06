@@ -83,7 +83,7 @@ E em caso de erro, ou passagem de parâmetro(jogada) inválida, será apresentad
 ```BAD_REQUEST```
 
 ## Testes 🔎
-Os testes foram realizados com o framework [JUnit](https://junit.org/junit5/), onde os casos de testes utilizados são os seguintes:
+Os [testes](https://github.com/jolisan/jokenpo-api/tree/main/src/test/java/com/zenvia/api/controller) foram realizados com o framework [JUnit](https://junit.org/junit5/), onde os casos de testes utilizados são os seguintes:
 
 ![alt tag](https://i.imgur.com/X2GVz1l.png)
 * <b> mustReturnSuccess_WhenPlay_Pedra_Tesoura() -</b> Ao passar os parâmetros PEDRA e TESOURA, para os Jogadores 1 e 2 respectivamente, verifica se houve sucesso ao efetuar a jogada e retornar o vencedor;
